@@ -1,10 +1,3 @@
-**👋 Hi, I'm Aleksandre Kapanadze!**  
+**Aleksandre Kapanadze**  
 
-🚀 Passionate about software engineering, competitive programming, and 3D modeling.  
-🎯 Experienced in Python, C++, JavaScript, and full-stack development.  
-🔬 Researching 3D rendering optimization and acceleration structures.  
-🏆 Robotics & programming Olympiad finalist.  
-
-Always learning, building, and optimizing! 💡✨  
-
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/kapanadze-alexander/)
+Software engineer and researcher with a strong background in algorithm development, full-stack web development, and data engineering. Experienced in Python, C++, and JavaScript, with a focus on competitive programming and optimization techniques. Conducted research on acceleration structures in ray tracing and their impact on rendering efficiency. Proven track record in developing scalable systems, mentoring students in algorithms, and contributing to high-impact projects in both academic and professional settings.
